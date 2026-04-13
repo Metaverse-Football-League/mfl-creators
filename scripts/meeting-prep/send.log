@@ -1,0 +1,36 @@
+Using keyring backend: keyring
+Warning: keyring access failed, falling back to file storage: Platform secure storage failure: User interaction is not allowed.
+{
+  "id": "19d68199f5eff399",
+  "labelIds": [
+    "UNREAD",
+    "SENT",
+    "INBOX"
+  ],
+  "threadId": "19d68199f5eff399"
+}
+Tue Apr  7 15:20:02 CEST 2026: SENT lykos — 🟢 Meeting in 10 min — Lykos_RW (15:30 CET)
+Using keyring backend: keyring
+Warning: keyring access failed, falling back to file storage: Platform secure storage failure: User interaction is not allowed.
+{
+  "id": "19d6c7fbf866d67b",
+  "labelIds": [
+    "UNREAD",
+    "SENT",
+    "INBOX"
+  ],
+  "threadId": "19d6c7fbf866d67b"
+}
+Wed Apr  8 11:50:04 CEST 2026: SENT tony — 🟡 Meeting in 10 min — Tony ExpérienceFoot (12:00 CET)
+Using keyring backend: keyring
+Warning: keyring access failed, falling back to file storage: Platform secure storage failure: User interaction is not allowed.
+{
+  "id": "19d6d247f451edf6",
+  "labelIds": [
+    "UNREAD",
+    "SENT",
+    "INBOX"
+  ],
+  "threadId": "19d6d247f451edf6"
+}
+Wed Apr  8 14:50:01 CEST 2026: SENT mat — 🔵 Meeting in 10 min — Mat_/Daniel Vorborg UNCORE (15:00 CET)
