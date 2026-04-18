@@ -10,7 +10,7 @@
 |------|---------|-------------|---------------|-----------|------|-------------|-----|
 | Nepenthez | [@NepentheZ](https://x.com/NepentheZ) | [Profile](https://app.playmfl.com/users/0x55e8be2966409ed4) | YouTube | ~1.96M | Affiliate (€1K/mo + 5-20%) | Await invoice for $2,789 (inactive period) | - |
 | WorkTheSpace | [@WorkTheSpace](https://x.com/WorkTheSpace) | [Profile](https://app.playmfl.com/users/0x8a4a4c6f6d7dd8d6) | YouTube | ~223K | Affiliate | - | - |
-| Quinny | [@Quinny3001](https://x.com/Quinny3001) | [Profile](https://app.playmfl.com/users/0x82b2e72ccb6c355c) | YouTube | ~12.3K | Affiliate | Set up report dashboard link; create Discord group with Bastien & Lucas | - |
+| Quinny | [@Quinny3001](https://x.com/Quinny3001) | [Profile](https://app.playmfl.com/users/0x82b2e72ccb6c355c) | YouTube | ~12.3K | Affiliate | - | - |
 | Andrew Laird | [@andrewmlaird](https://x.com/andrewmlaird) | [Profile](https://app.playmfl.com/users/0x9124f9b74b02e86e) | YouTube / Podcasts | ~4.99K (YT) | Affiliate | Set up affiliate dashboard credentials (asked 3x); Andrew to deliver sponsorship segment + non-live videos; schedule next monthly call | — |
 | MrFutlovers | [@MrFutlovers](https://x.com/MrFutlovers) | [Profile](https://app.playmfl.com/users/0x2560881cfa22ff48) | Instagram | ~105K | Affiliate (€200/mo) | Send deal confirmation email + resend affiliate link; review Feb invoice | - |
 | Mookie | [@MookieBarbu](https://x.com/MookieBarbu) | [Profile](https://app.playmfl.com/users/0x28ce70dcacb592b4) | Twitter/X | 109K | Affiliate | - | - |
@@ -18,13 +18,13 @@
 | ROYALIVI | [@Royalivi](https://x.com/Royalivi) | [Profile](https://app.playmfl.com/users/0x788215b8abd79b58) | YouTube | ~1.77K | Affiliate | - | - |
 | Le Poulain | [@Le_PoulainYT](https://x.com/Le_PoulainYT) | [Profile](https://app.playmfl.com/users/0xb21f34d226676558) | Streaming | ~4.69K (YT) | Affiliate (€150/mo + tiered commission) | - | - |
 | Monaco Sorare | [@Monaco76_Yt](https://x.com/Monaco76_Yt) | [Profile](https://app.playmfl.com/users/0x6a0647d7681bb134) | YouTube + Twitch | ~2.8K+ | Affiliate (€200/mo + tiered commission) | - | - |
-| Harry Trades | [@HarryTrades_](https://x.com/HarryTrades_) | — | YouTube | ~11.9K (YT), ~10K (X) | Affiliate ($450/mo + 5-20%) | Kickoff call with Bastien & Lucas | 2026-04-16 |
+| Harry Trades | [@HarryTrades_](https://x.com/HarryTrades_) | — | YouTube | ~11.9K (YT), ~10K (X) | Affiliate ($450/mo + 5-20%) | Harry to share content schedule | 2026-04-23 |
 | Trequinho | [@FMTreq](https://x.com/FMTreq) | — | YouTube | 20.5K | Affiliate (€200/mo + tiered commission) | Set up affiliate link | - |
-| Flyndle | [@Flyndle_](https://x.com/Flyndle_) | — | YouTube | ~2K | Affiliate ($250/mo + tiered commission) | Set up affiliate report dashboard link | - |
+| Flyndle | [@Flyndle_](https://x.com/Flyndle_) | — | YouTube | ~2K | Affiliate ($250/mo + tiered commission) | Send brand/media kit (logos, graphics for thumbnails) | 2026-04-17 |
 | McBrideAce | [@McBrideAce](https://x.com/McBrideAce) | [Profile](https://app.playmfl.com/users/0xedecde2008028486) | YouTube | ~2.7K | Affiliate ($250/mo + tiered commission) | - | - |
 | Lamella Bros | [@LamellaBros](https://x.com/LamellaBros) | — | YouTube + Telegram | ~15.9K | Affiliate ($200/mo + tiered commission) | - | - |
-| Warkik | [@WarkikTV](https://x.com/WarkikTV) | — | Twitch | ~18.3K | Affiliate (€500/mo + 5-20%) | Reschedule first MFL stream (postponed Apr 2); second onboarding session with Bastien | - |
-| BushRod | [@BushRodTwitch](https://x.com/BushRodTwitch) | [Profile](https://app.playmfl.com/users/0x3109916b7ddd6054) | Twitch | ~620 (Twitch) | Affiliate (no guarantee, 5-20%) | Set up affiliate link; schedule kickoff call with Bastien & Lucas | - |
+| Warkik | [@WarkikTV](https://x.com/WarkikTV) | — | Twitch | ~18.3K | Affiliate (€500/mo + 5-20%) | Await viewer usernames (untracked referrals); second onboarding session with Bastien | 2026-04-23 |
+| BushRod | [@BushRodTwitch](https://x.com/BushRodTwitch) | [Profile](https://app.playmfl.com/users/0x3109916b7ddd6054) | Twitch | ~620 (Twitch) | Affiliate (no guarantee, 5-20%) | - | - |
 
 ---
 
@@ -32,15 +32,19 @@
 
 | Name | Profile | Main Platform | Followers | Ecosystem | Next Action | Due |
 |------|---------|---------------|-----------|-----------|-------------|-----|
-| QTN | [@QTNSorare](https://x.com/QTNSorare) | Twitter/X | ~25K | Sorare | Await Calendly booking to discuss counter-proposal | 2026-04-14 |
-| FM Scout | [@fmscout](https://www.youtube.com/@fmscout) | YouTube | ~213K | FM | Follow-up sent Apr 8 — asked for article/newsletter pricing, looped in ads@fmscout.com | 2026-04-15 |
-| lollujo | [@lollujo](https://x.com/lollujo) | YouTube | ~203K (YT), ~60.5K (Twitch) | FM | Bump sent Apr 8 to Kieron (Ritual Network). Await reply | 2026-04-15 |
+| QTN | [@QTNSorare](https://x.com/QTNSorare) | Twitter/X | ~25K | Sorare | Call scheduled Tue Apr 28 at 16:30 CEST (booked Apr 11) | 2026-04-28 |
+| FM Scout | [@fmscout](https://www.youtube.com/@fmscout) | YouTube | ~213K | FM | Await pricing — 2nd follow-up sent Apr 16 (Jake + ads@fmscout.com) | 2026-04-23 |
+| lollujo | [@lollujo](https://x.com/lollujo) | YouTube | ~203K (YT), ~60.5K (Twitch) | FM | Await Kieron/Savannah (Ritual Network) — 2nd bump sent Apr 16 | 2026-04-23 |
 | PapyGusom | [@PapyGusom](https://x.com/PapyGusom) | Twitch | ~3.5K (10 avg viewers) | FM | Check in on game feedback (what does he think after 2 weeks of play) | 2026-04-22 |
 | Yasu | [@yasu_ke_](https://www.twitch.tv/yasu_ke_) | TikTok | ~9K (TikTok) | FM | Await game testing & feedback | — |
-| thepeoplespundit | [Twitch](https://www.twitch.tv/thepeoplespundit) | Twitch | ~77.9K (217 avg viewers) | FM | Reply to Joe Smith (DSM) with partnership structure | 2026-04-10 |
-| ZimsMulaa | [Twitch](https://www.twitch.tv/zimsmulaa) | Twitch | ~34.1K (53 avg viewers) | FM | Follow up — said he'd book Calendly but hasn't yet (7 days) | 2026-04-11 |
-| Mat_ | [Twitch](https://www.twitch.tv/mat_) | Twitch | ~49.0K (129 avg viewers) | FM | Reply to Daniel Vorborg (Uncore) with partnership structure | 2026-04-11 |
-| BobMorane26 | [@BobMorane26](https://x.com/BobMorane26) | Twitch | 1,371 (18 avg viewers) | FM | Intro call Tue Apr 14 at 16h | 2026-04-14 |
+| thepeoplespundit | [Twitch](https://www.twitch.tv/thepeoplespundit) | Twitch | ~77.9K (217 avg viewers) | FM | Await Joe Smith (DSM) — partnership structure sent Apr 16 | 2026-04-23 |
+| ZimsMulaa | [Twitch](https://www.twitch.tv/zimsmulaa) | Twitch | ~34.1K (53 avg viewers) | FM | Intro call Thu Apr 16 at 12:15 CEST | 2026-04-16 |
+| Mat_ | [Twitch](https://www.twitch.tv/mat_) | Twitch | ~49.0K (129 avg viewers) | FM | Await Daniel Vorborg (Uncore) response — structure sent Apr 10 | 2026-04-17 |
+| BobMorane26 | [@BobMorane26](https://x.com/BobMorane26) | Twitch | 1,371 (18 avg viewers) | FM | Await MFL username + club city from Romain (Discord group kickoff sent Apr 16) | 2026-04-23 |
+| MrBaer | [Twitch](https://www.twitch.tv/mrbaer) | Twitch | ~5.2K (29 avg viewers) | FM | Await Alex — partnership structure + deliverables clarification sent Apr 16 | 2026-04-23 |
+| oruipinto | [Twitch](https://www.twitch.tv/oruipinto) | Twitch | ~52.4K (151 avg viewers) | FM | Await Rui — partnership structure/budget sent Apr 16 | 2026-04-23 |
+| Tony ExpérienceFoot | [@experience_fm](https://www.youtube.com/@TonyExpérienceFoot) | YouTube | ~12.1K | FM | Intro call Tue Apr 22 (rebooked after Apr 8 no-show) | 2026-04-22 |
+| Lykos_RW | [Twitch](https://www.twitch.tv/lykos_rw) | Twitch | ~9.8K (13 avg viewers) | FM | Await Lykos — reschedule bump sent Apr 16 (Apr 7 no-show) | 2026-04-23 |
 
 ---
 
@@ -50,35 +54,32 @@
 |------|---------|---------------|-----------|-----------|-------------|-----|
 | ItsAdamFM | [@ItsAdamFM](https://x.com/ItsAdamFM) | Twitch | 764 (13 avg viewers) | FM | Await Calendly booking (replied positively Apr 10) | 2026-04-17 |
 | thomaxsorare | [@ThomaxSorare](https://x.com/ThomaxSorare) | Twitch | TBD | Sorare | Await response to X DM outreach (Apr 10) | 2026-04-17 |
-| Tony ExpérienceFoot | [@experience_fm](https://www.youtube.com/@TonyExpérienceFoot) | YouTube | ~12.1K | FM | Await response to reschedule email + DM (no-show Apr 8) | 2026-04-14 |
 | Kiniitooo | [@Kiniitooo](https://www.youtube.com/@Kiniitooo/videos) | Twitch | ~9.9K (YT) | FM | Await response to public X tag from personal account (Apr 10) | 2026-04-17 |
 | TommVM | [@tommvm](https://www.youtube.com/@tommvm) | YouTube | ~763 (YT) | Sorare | Telegram DM sent (Apr 8). Emails + IG unanswered | 2026-04-15 |
 | GB32FM | [Twitch](https://www.twitch.tv/gb32fm) | Twitch | ~18 avg viewers | FM | X tweet + public Discord msg (Apr 8). Emails unanswered | 2026-04-15 |
 | Clayts | [@claytsfm](https://twitter.com/claytsfm) | YouTube | ~126K | FM | X DM sent (Mar 28). Emails unanswered | 2026-04-04 |
 | JoseLock08 | [@jose_lock08](https://x.com/jose_lock08) | Twitch | 6,983 (36-63 avg viewers) | FM | Send follow-up X DM (tried on X) | 2026-04-11 |
-| RiaZ_Gaming | [Twitch](https://www.twitch.tv/riaz_gaming) | Twitch | 27,938 (62 avg viewers) | FM | Outreach email sent (Apr 2) | 2026-04-09 |
-| papa_subway | [Twitch](https://www.twitch.tv/papa_subway) | Twitch | 2,131 (15 avg viewers) | FM | Outreach email sent (Apr 2) | 2026-04-09 |
-| Maozhon | [Twitch](https://www.twitch.tv/maozhon) | Twitch | 106 (10 avg viewers) | FM | Outreach email sent (Apr 2) | 2026-04-09 |
-| AlxTess | [@AlxTess](https://x.com/AlxTess) | Twitch | 1,204 (6.6 avg viewers) | FM | Outreach email sent (Apr 2) | 2026-04-09 |
-| Beautiful_Nuts | [Twitch](https://www.twitch.tv/beautiful_nuts) | Twitch | 823 (12 avg viewers) | FM | Outreach email sent (Apr 2) | 2026-04-09 |
-| Teushikamaruu | [Twitch](https://www.twitch.tv/teushikamaruu) | Twitch | 157 (7 avg viewers) | FM | Outreach email sent (Apr 2) | 2026-04-09 |
-| DerHumi | [Twitch](https://www.twitch.tv/derhumi) | Twitch | 803 (9 avg viewers) | FM | Outreach email sent (Apr 2) | 2026-04-09 |
-| y_mann | [Twitch](https://www.twitch.tv/y_mann) | Twitch | 250 (13 avg viewers) | FM | Outreach email sent (Apr 2) | 2026-04-09 |
-| Meyerle | [Twitch](https://www.twitch.tv/meyerle) | Twitch | 356 (7 avg viewers) | FM | Outreach email sent (Apr 2) | 2026-04-09 |
-| Marohde8 | [Twitch](https://www.twitch.tv/marohde8) | Twitch | 70 (10 avg viewers) | FM | Outreach email sent (Apr 2) | 2026-04-09 |
-| Pieface23 | [Twitch](https://www.twitch.tv/pieface23) | Twitch | ~961.0K (1285 avg viewers) | FM | Outreach email sent (Apr 2) | 2026-04-09 |
-| ImBa__TV | [Twitch](https://www.twitch.tv/imba__tv) | Twitch | ~26.0K (252 avg viewers) | FM | Outreach email sent (Apr 2) | 2026-04-09 |
-| SecondYellowCard | [Twitch](https://www.twitch.tv/secondyellowcard) | Twitch | ~29.6K (240 avg viewers) | FM | Outreach email sent (Apr 2) | 2026-04-09 |
-| KingKontent | [Twitch](https://www.twitch.tv/kingkontent) | Twitch | ~40.1K (197 avg viewers) | FM | Outreach email sent (Apr 2) | 2026-04-09 |
-| oruipinto | [Twitch](https://www.twitch.tv/oruipinto) | Twitch | ~52.4K (151 avg viewers) | FM | Outreach email sent (Apr 2) | 2026-04-09 |
-| BadeschlappenLP | [Twitch](https://www.twitch.tv/badeschlappenlp) | Twitch | ~164.1K (147 avg viewers) | FM | Outreach email sent (Apr 2) | 2026-04-09 |
-| Macedo_TV | [Twitch](https://www.twitch.tv/macedo_tv) | Twitch | ~4.6K (36 avg viewers) | FM | Outreach email sent (Apr 2) | 2026-04-09 |
-| DeeBoiPlays | [Twitch](https://www.twitch.tv/deeboiplays) | Twitch | ~2.2K (36 avg viewers) | FM | Outreach email sent (Apr 2) | 2026-04-09 |
-| MisterFMtwitch | [Twitch](https://www.twitch.tv/misterfmtwitch) | Twitch | ~12.0K (35 avg viewers) | FM | Outreach email sent (Apr 2) | 2026-04-09 |
-| Renato_Diogo | [Twitch](https://www.twitch.tv/renato_diogo) | Twitch | ~4.0K (31 avg viewers) | FM | Outreach email sent (Apr 2) | 2026-04-09 |
-| JoshRyder | [Twitch](https://www.twitch.tv/joshryder) | Twitch | ~14.3K (28 avg viewers) | FM | Outreach email sent (Apr 2) | 2026-04-09 |
-| dekkkcsgo | [Twitch](https://www.twitch.tv/dekkkcsgo) | Twitch | ~32.8K (16 avg viewers) | FM | Outreach email sent (Apr 2) | 2026-04-09 |
-| Lykos_RW | [Twitch](https://www.twitch.tv/lykos_rw) | Twitch | ~9.8K (13 avg viewers) | FM | Outreach email sent (Apr 2) | 2026-04-09 |
+| RiaZ_Gaming | [Twitch](https://www.twitch.tv/riaz_gaming) | Twitch | 27,938 (62 avg viewers) | FM | Await reply — bump sent Apr 16 | 2026-04-23 |
+| papa_subway | [Twitch](https://www.twitch.tv/papa_subway) | Twitch | 2,131 (15 avg viewers) | FM | Await reply — bump sent Apr 16 | 2026-04-23 |
+| Maozhon | [Twitch](https://www.twitch.tv/maozhon) | Twitch | 106 (10 avg viewers) | FM | Await reply — bump sent Apr 16 | 2026-04-23 |
+| AlxTess | [@AlxTess](https://x.com/AlxTess) | Twitch | 1,204 (6.6 avg viewers) | FM | Await reply — bump sent Apr 16 | 2026-04-23 |
+| Beautiful_Nuts | [Twitch](https://www.twitch.tv/beautiful_nuts) | Twitch | 823 (12 avg viewers) | FM | Await reply — bump sent Apr 16 | 2026-04-23 |
+| Teushikamaruu | [Twitch](https://www.twitch.tv/teushikamaruu) | Twitch | 157 (7 avg viewers) | FM | Await reply — bump sent Apr 16 | 2026-04-23 |
+| DerHumi | [Twitch](https://www.twitch.tv/derhumi) | Twitch | 803 (9 avg viewers) | FM | Await reply — bump sent Apr 16 | 2026-04-23 |
+| y_mann | [Twitch](https://www.twitch.tv/y_mann) | Twitch | 250 (13 avg viewers) | FM | Await reply — bump sent Apr 16 | 2026-04-23 |
+| Meyerle | [Twitch](https://www.twitch.tv/meyerle) | Twitch | 356 (7 avg viewers) | FM | Await reply — bump sent Apr 16 | 2026-04-23 |
+| Marohde8 | [Twitch](https://www.twitch.tv/marohde8) | Twitch | 70 (10 avg viewers) | FM | Await reply — bump sent Apr 16 | 2026-04-23 |
+| Pieface23 | [Twitch](https://www.twitch.tv/pieface23) | Twitch | ~961.0K (1285 avg viewers) | FM | Await reply — bump sent Apr 16 | 2026-04-23 |
+| ImBa__TV | [Twitch](https://www.twitch.tv/imba__tv) | Twitch | ~26.0K (252 avg viewers) | FM | Await reply — bump sent Apr 16 | 2026-04-23 |
+| SecondYellowCard | [Twitch](https://www.twitch.tv/secondyellowcard) | Twitch | ~29.6K (240 avg viewers) | FM | Await reply — bump sent Apr 16 | 2026-04-23 |
+| KingKontent | [Twitch](https://www.twitch.tv/kingkontent) | Twitch | ~40.1K (197 avg viewers) | FM | Await reply — bump sent Apr 16 | 2026-04-23 |
+| BadeschlappenLP | [Twitch](https://www.twitch.tv/badeschlappenlp) | Twitch | ~164.1K (147 avg viewers) | FM | Await reply — bump sent Apr 16 | 2026-04-23 |
+| Macedo_TV | [Twitch](https://www.twitch.tv/macedo_tv) | Twitch | ~4.6K (36 avg viewers) | FM | Await reply — bump sent Apr 16 | 2026-04-23 |
+| DeeBoiPlays | [Twitch](https://www.twitch.tv/deeboiplays) | Twitch | ~2.2K (36 avg viewers) | FM | Await reply — bump sent Apr 16 | 2026-04-23 |
+| MisterFMtwitch | [Twitch](https://www.twitch.tv/misterfmtwitch) | Twitch | ~12.0K (35 avg viewers) | FM | Await reply — bump sent Apr 16 | 2026-04-23 |
+| Renato_Diogo | [Twitch](https://www.twitch.tv/renato_diogo) | Twitch | ~4.0K (31 avg viewers) | FM | Await reply — bump sent Apr 16 | 2026-04-23 |
+| JoshRyder | [Twitch](https://www.twitch.tv/joshryder) | Twitch | ~14.3K (28 avg viewers) | FM | Await reply — bump sent Apr 16 | 2026-04-23 |
+| dekkkcsgo | [Twitch](https://www.twitch.tv/dekkkcsgo) | Twitch | ~32.8K (16 avg viewers) | FM | Await reply — bump sent Apr 16 | 2026-04-23 |
 | Scheme1 | [@Scheme1_](https://x.com/Scheme1_) | Twitch | 966 (11 avg viewers) | FM | Await response to outreach DM (Apr 9) | 2026-04-16 |
 | Justicier2Lombre | [@J2ltime](https://x.com/J2ltime) | Twitch | ~26.7K (68 avg viewers) | FM | Await response to outreach DM (Apr 9) | 2026-04-16 |
 | laftercoachryan | [@CoachRyanFM](https://x.com/CoachRyanFM) | Twitch | 147 (7 avg viewers) | FM | Await response to outreach DM (Apr 9) | 2026-04-16 |
@@ -89,7 +90,6 @@
 | lashbob | [@lashbob_](https://x.com/lashbob_) | Twitch | 4,400 (62 avg viewers) | FM | Outreach email sent (Apr 9) | 2026-04-16 |
 | MiGas_ | [Twitch](https://www.twitch.tv/migas_) | Twitch | ~4.0K (46 avg viewers) | FM | Outreach email sent (Apr 9) | 2026-04-16 |
 | Noval91 | [Twitch](https://www.twitch.tv/noval91) | Twitch | 919 (35 avg viewers) | FM | Outreach email sent (Apr 9) | 2026-04-16 |
-| MrBaer | [Twitch](https://www.twitch.tv/mrbaer) | Twitch | ~5.2K (29 avg viewers) | FM | Outreach email sent (Apr 9) | 2026-04-16 |
 | AntonGatl | [Twitch](https://www.twitch.tv/antongatl) | Twitch | ~3.7K (25 avg viewers) | FM | Outreach email sent (Apr 9) | 2026-04-16 |
 | MainDotLua | [Twitch](https://www.twitch.tv/maindotlua) | Twitch | ~1.8K (24 avg viewers) | FM | Outreach email sent (Apr 9) | 2026-04-16 |
 | GenosseJuke | [@genossej](https://x.com/genossej) | Twitch | 11,100 (14 avg viewers) | FM | Outreach email sent (Apr 9) | 2026-04-16 |
@@ -253,8 +253,8 @@
 |--------|-------|
 | Active | 17 |
 | Paused | 18 |
-| Negotiation | 9 |
-| Outreach | 52 |
+| Negotiation | 13 |
+| Outreach | 48 |
 | To Contact | 127 |
 | Prospect | 343 |
 | Archived | 13 |

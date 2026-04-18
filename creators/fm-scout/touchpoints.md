@@ -1,5 +1,11 @@
 # Touchpoints
 
+### 2026-04-16 - [Type: Email]
+Short bump sent in the existing thread to Jake (sponsor@fmscout.com) with ads@fmscout.com in CC. Asked for update on pricing for the sponsored article + newsletter placements and re-shared Calendly link.
+- Key points: 8-day follow-up after Apr 8 pricing request
+- Action items: Await pricing response from Jake / ads@fmscout.com
+- Next step: Follow up ~Apr 23 or consider Pause
+
 ### 2026-04-08 - [Type: Email]
 Follow-up email sent to Jake, also looped in ads@fmscout.com directly to speed things up. Shifted angle beyond creator/video: asked for pricing on (1) sponsored / featured article, (2) newsletter inclusion, (3) bundle options (article + display, etc.). Shared Calendly link.
 - Key points: Expanded request to article + newsletter placements; added ads@fmscout.com to the thread

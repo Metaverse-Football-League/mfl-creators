@@ -46,8 +46,8 @@ This is a deliberately lightweight setup matching BushRod's stated preference: n
 - [x] Affiliate contract signed (2026-04-03)
 - [x] Discord group created with Bastien & Lucas (done: 2026-03-31)
 - [x] Activation kickoff message sent in Discord group (done: 2026-04-07)
-- [ ] Set up affiliate tracking link (creator self-serve at https://app.playmfl.com/settings/referral)
-- [ ] Schedule kickoff call with Bastien & Lucas (Calendly)
+- [x] Set up affiliate tracking link (self-serve link shared in kickoff message 2026-04-07)
+- [x] Kickoff call with Bastien (done: game demo 2026-04-01)
 - [ ] Report blog 404 bug to team
 
 ## Notes

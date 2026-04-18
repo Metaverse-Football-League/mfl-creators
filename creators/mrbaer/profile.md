@@ -1,12 +1,13 @@
 # MrBaer (@mrbaer)
 
-> **To Contact** | FM | German | Updated: 2026-03-31
+> **Negotiation** | FM | German | Updated: 2026-04-13
 
 | | |
 |---|---|
+| **Real Name** | Alex R |
 | **Main Platform** | Twitch |
-| **Email** | Not found |
-| **Location** | Unknown |
+| **Email** | iammrbaer@gmail.com |
+| **Location** | Germany (inferred from language) |
 | **Discord** | |
 | **MFL Username** | |
 | **MFL Wallet** | |

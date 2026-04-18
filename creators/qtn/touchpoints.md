@@ -1,5 +1,11 @@
 # Touchpoints
 
+### 2026-04-11 - [Type: Calendly]
+Quentin Silini (QTN) booked a Calendly slot for Tue 28 Apr 2026 at 16:30 CEST. Invitee email: silini.quentin@gmail.com.
+- Key points: Booking confirms QTN is proceeding with the live counter-proposal discussion Mathurin proposed on Apr 7
+- Action items: Prepare counter-proposal talking points for the call
+- Next step: Call on Apr 28 at 16:30 CEST
+
 ### 2025-12-11 - [Type: X DM]
 End of a previous exchange — QTN closed the conversation amicably, inviting Mathurin to come back if things change in the future.
 - Key points: Previous outreach did not convert to a partnership

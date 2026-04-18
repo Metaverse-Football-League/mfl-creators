@@ -1,10 +1,26 @@
 # Touchpoints
 
-### 2026-04-10 - Email (Daniel Vorborg, Uncore)
+### 2026-04-10 - Email (Reply to Daniel Vorborg)
+Mathurin replied to Daniel with MFL's partnership structure: affiliation deal with minimum monthly guarantee (compensates deliverables) + up to 20% commission on referrals.
+- Key points: Partnership structure sent as requested
+- Action items: Await Daniel's response
+- Next step: Follow up if no reply by Apr 17
+
+### 2026-04-09 - Email (Daniel Vorborg, Uncore)
 Daniel Vorborg (Co-CEO & Co-Founder, Uncore) replied to the outreach thread. Mathias is managed by Uncore. Daniel asks what sort of deal MFL would be interested in. Notes that Mathias has ~180K followers across channels and is mainly known for football and gaming.
 - Key points: Mat_ is managed by Uncore (Daniel Vorborg, dv@uncore.gg, +45 28 34 78 81, Discord: dvorborg). Positive interest — asking about deal structure
 - Action items: Mathurin to reply with partnership structure overview and propose a call
 - Next step: Send partnership details + Calendly
+
+### 2026-04-08 - [Type: Call — No-show]
+Daniel Vorborg had booked a Calendly for Wed Apr 8 15:00 CEST but did not join. Mathurin waited, then emailed "Happy to risk a deal if you'd like to" with calendar link to rebook.
+- Key points: First call attempt missed by Daniel; rebook requested
+- Next step: Daniel to rebook or reply with deal questions
+
+### 2026-04-02 — [Type: Calendly]
+Manager **Daniel Vorborg (UNCORE.gg)** booked an intro call via Calendly on behalf of Mathias. Topic he wrote: "You sent an email to Mathias Emge regarding a Partnership, and I am his manager". Same-day conversion from Apr 2 cold email.
+- Key points: Call confirmed for Wed Apr 8, 15:00 CET. Google Meet via Calendly. Manager-led process — UNCORE handles brand deals
+- Next step: Prepare for call (research done — see profile.md notes). Conduct in English.
 
 ### 2026-04-02 - Email
 First outreach email sent (EN) to Mathiasemge@uncore.gg. Mathurin introduced MFL, mentioned active creator partners (WorkTheSpace, Nepenthez), and proposed a call.

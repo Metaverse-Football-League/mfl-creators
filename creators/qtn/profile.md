@@ -1,11 +1,12 @@
 # QTN (@QTNSorare)
 
-> **Negotiation** | Sorare | French | Updated: 2026-04-07
+> **Negotiation** | Sorare | French | Updated: 2026-04-13
 
 | | |
 |---|---|
+| **Real Name** | Quentin Silini |
 | **Main Platform** | Twitch / Twitter/X |
-| **Email** | TBD |
+| **Email** | silini.quentin@gmail.com |
 | **Location** | Belgium |
 | **Discord** | TBD |
 | **MFL Username** | TBD |

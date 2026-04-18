@@ -1,5 +1,11 @@
 # Touchpoints
 
+### 2026-04-16 - Email
+Mathurin replied to Joe Smith (DSM) with the requested partnership structure: affiliation deal + minimum guarantee, up to 20% rev share scaling with performance, 1-year rev share per referred user. Explained light Twitch deliverables (~1h/week integrated into existing streams) and offered a free club for Pundit to try MFL before any commitment. Re-proposed a call via Calendly.
+- Key points: Partnership structure sent; try-before-commit offer for Pundit; call re-proposed
+- Action items: Await Joe's response
+- Next step: Follow up ~Apr 23 if no reply
+
 ### 2026-04-02 - Email
 First outreach email sent (EN) to thepeoplespundit@digitalsportsmgmt.com. Mathurin introduced MFL, mentioned active creator partners (WorkTheSpace, Nepenthez), and proposed a call.
 - Key points: Initial partnership outreach; MFL pitch (football management sim, real opponents); social proof (active FM creator partners)

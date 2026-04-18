@@ -1,5 +1,11 @@
 # Touchpoints
 
+### 2026-04-15 - X DM (Reply from Tony)
+Tony replied on X, apologized for the Apr 8 no-show (last-minute work conflict), and confirmed he rebooked a new Calendly slot for Tuesday Apr 22.
+- Key points: Call rebooked for Apr 22; reason for no-show was a work emergency
+- Action items: Prepare for Apr 22 call
+- Next step: Hold the Apr 22 slot, no further outreach needed
+
 ### 2026-04-10 - Email + X DM
 Tony no-showed the Apr 8 call. Mathurin sent a reschedule email + X DM.
 - Key points: No-show on first intro call; reschedule attempt sent via both channels

@@ -1,6 +1,6 @@
 # Lykos_RW (@lykos_rw)
 
-> **Negotiation** | Variety (FM + GTA RP) | French | Updated: 2026-04-07
+> **Negotiation** | Variety (FM + GTA RP) | French | Updated: 2026-04-16
 
 | | |
 |---|---|
@@ -34,7 +34,8 @@
 | **Deliverables** | — |
 
 ## Next Actions
-- [ ] Intro call Tue Apr 7, 15:30 CET (booked via Calendly Apr 3)
+- [x] Intro call Tue Apr 7, 15:30 CET — Lykos no-showed
+- [ ] Await response to reschedule bump (sent Apr 16)
 
 ## Notes
 

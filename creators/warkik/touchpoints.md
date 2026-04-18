@@ -1,5 +1,11 @@
 # Touchpoints
 
+### 2026-04-16 - [Type: Discord]
+Dimitri asked Bastien to explain what "referees primary sales volumes" means on the affiliate dashboard and how to calculate his bonuses. Bastien gave a partial explanation (fixed + 5-20% tiered based on referral count) and pinged Mathurin for precision. Mathurin replied with a full breakdown: €500/month minimum guarantee; tiered commission (0: 5%, 1-2: 10%, 3-5: 12%, 6-20: 15%, 21+: 20%) calculated monthly based on new referrals each month; applied to the monthly net revenue from referred users; creator receives whichever is higher between commission and minimum guarantee.
+- Key points: Clarified how the tier resets monthly (previously not fully explained); template for future creators saved as Template 9 in message-templates.md
+- Action items: Await Dimitri's confirmation it's clear; still awaiting list of viewer MFL usernames whose referrals didn't track (raised Apr 12-13)
+- Next step: Continue onboarding; second session with Bastien
+
 ### 2026-04-02 — [Type: Call]
 Welcome/kickoff call with Mathurin Blouin, Bastien Pacifico, and Dimitri Lorenzi (Warkik). Combined kickoff + first onboarding session. Dimitri shared he's going through a difficult personal period (family member hospitalized in specialist care). Mathurin offered flexibility and empathy (shared his own recent experience with his newborn's hospitalization).
 

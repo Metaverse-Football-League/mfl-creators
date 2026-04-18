@@ -52,7 +52,9 @@ Warkik counter-proposed from the initial €400/month offer: increased guarantee
 - [ ] Second onboarding session with Bastien (session 2 of 2)
 - [ ] Schedule 20-30 min MFL live presentation on Warkik's stream (Mathurin joins)
 - [ ] Warkik to share weekly content schedule (coordinate stream days with Bastien)
-- [ ] Set up affiliate link
+- [x] Set up affiliate link (done — Warkik already using it; viewers refs tracked from Apr 10)
+- [ ] Warkik to share MFL usernames of viewers whose referral didn't track (raised Apr 12-13, confirmed retroactive attachment possible)
+- [x] Mathurin to clarify how the tiered commission interacts with the guarantee (clarified 2026-04-16)
 - [ ] Bastien to send game guide, MFL Coach, MFL Assistant links
 - [ ] Check animated MFL logo availability for viewing parties
 

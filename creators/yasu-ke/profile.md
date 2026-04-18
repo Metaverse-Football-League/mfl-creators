@@ -11,7 +11,7 @@
 | **Discord** | discord.gg/MewBn6xAh |
 | **Discord Group** | Yasu x MFL (with Bastien & Lucas) |
 | **MFL Username** | |
-| **MFL Wallet** | |
+| **MFL Wallet** | 0xd0936d02e77a8cb3 |
 | **MFL Profile** | |
 | **Last Audit Week** | — |
 

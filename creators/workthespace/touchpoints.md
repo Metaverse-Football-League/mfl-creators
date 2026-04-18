@@ -1,5 +1,17 @@
 # Touchpoints
 
+### 2026-04-16 - [Type: Discord]
+Mathurin proposed a coffee/beers/lunch meetup in London over the weekend (Fri Apr 17 – Sun Apr 19, MFL event Saturday). Flexible on timing except Saturday evening. Follow-up to Jack's Apr 12 message where he shared that his grandfather (who raised him) was given 48h to live and declined extra promo commission given he couldn't deliver content this month. Jack said Friday or Sunday could work pending circumstances.
+- Key points: Informal weekend meetup offered given Jack is London-based; deal reignition conversation parked until S14
+- Action items: Await Jack's confirmation of day/time
+- Next step: Meet in London if feasible
+
+### 2026-04-12 - [Type: Discord]
+Jack shared that his grandfather (who raised him as his dad) was given 48h to live due to end of life care after a weeks-long decline. Also battled a chest infection that prevented him from streaming or visiting until it cleared up. Declined additional compensation beyond his regular commission for the S13 promo since the conversion rate was low due to lack of content output. Hopes to reignite things ahead of S14. Lucas and Mathurin responded with empathy and confirmed they'd continue the partnership for S14.
+- Key points: Personal tragedy + illness derailed S13 content output; deal continuation confirmed for S14; Jack declined extra promo compensation for S13
+- Action items: Revisit deal ahead of S14
+- Next step: Wait for Jack to be ready
+
 ### 2025-06-06 - Discord
 Mathurin created group chat with Jack and Aviv. Discussed onboarding content creators — Jack agreed to refer FM creators in exchange for referral bonus.
 - Key points: Jack willing to make introductions to FM content creator network

@@ -1,6 +1,6 @@
 # oruipinto (@oruipinto)
 
-> **Outreach** | FM | Portuguese | Updated: 2026-04-02
+> **Negotiation** | FM | Portuguese | Updated: 2026-04-13
 
 | | |
 |---|---|

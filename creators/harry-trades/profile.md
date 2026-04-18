@@ -48,7 +48,7 @@ Plan is to start the deal during S13 with a soft launch (casual content, walking
 - [x] Confirm deliverables tweak with Harry on Discord (3 X posts/week + 1 short-form/week vs 4+2) — accepted, reflected in signed contract
 - [x] Contract signed (done: 2026-04-08/09)
 - [x] Kickoff message sent in Discord group (done: 2026-04-09)
-- [ ] Kickoff call with Bastien & Lucas
+- [x] Kickoff call with Bastien & Lucas (Bastien confirmed not needed 2026-04-02 — Laird already did a 2h game walkthrough)
 - [ ] Harry to share content schedule
 
 ## Notes

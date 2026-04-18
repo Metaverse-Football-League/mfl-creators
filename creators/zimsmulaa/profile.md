@@ -1,9 +1,10 @@
 # ZimsMulaa (@zimsmulaa)
 
-> **Negotiation** | FM | English | Updated: 2026-04-09
+> **Negotiation** | FM | English | Updated: 2026-04-13
 
 | | |
 |---|---|
+| **Real Name** | Zims Yusuf |
 | **Main Platform** | Twitch |
 | **Email** | zimsmula@gmail.com |
 | **Location** | Unknown |

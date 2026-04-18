@@ -1,5 +1,11 @@
 # Touchpoints
 
+### 2026-04-16 - [Type: Email]
+Second bump sent to Kieron in existing thread (CC: Savannah). Asked whether Kevin is still interested in exploring the partnership or if the timing isn't right, offered to adapt the proposal if something specific is blocking it. Re-shared Calendly link.
+- Key points: 8-day follow-up after Apr 8 bump; looped in Savannah; offered to adapt terms
+- Action items: Await Kieron's response
+- Next step: If no reply by ~Apr 23, move to Paused
+
 ### 2026-04-08 - [Type: Email]
 Short bump sent to Kieron in existing thread: "Following up on this. Please let me know if you're interested in exploring a partnership." No reply yet.
 - Key points: Follow-up after 2 weeks of silence since Mar 25 exchange

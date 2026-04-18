@@ -1,6 +1,6 @@
 # Tony ExpérienceFoot (@experience_fm)
 
-> **Negotiation** | Football Manager | French | Updated: 2026-04-10
+> **Negotiation** | Football Manager | French | Updated: 2026-04-16
 
 | | |
 |---|---|
@@ -30,7 +30,9 @@
 - [x] Outreach: Jacques Jan 7 → Mathurin CEO follow-ups Mar 4, Mar 12, X DM Mar 28
 - [x] Tony booked Calendly Apr 3 — first call Apr 8
 - [x] Intro call Wed Apr 8, 12:00 CET — Tony no-showed
-- [ ] Await response to reschedule email + DM (sent Apr 10). Check Tuesday Apr 14
+- [x] Reschedule email + DM sent Apr 10
+- [x] Tony apologized on X (Apr 15) and rebooked Calendly for Tue Apr 22
+- [ ] Intro call Tue Apr 22
 
 ## Notes
 

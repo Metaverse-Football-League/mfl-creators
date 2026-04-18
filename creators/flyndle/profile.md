@@ -60,7 +60,7 @@ Note: in Sep 2025 Josh was firm about no dedicated MFL content (sponsorship/ad p
 - [x] Create Discord group with Bastien & Lucas (done: 2026-03-10)
 - [x] Send kickoff message in Discord group with affiliate link + invoicing + Calendly (done: 2026-03-10)
 - [x] Kickoff call with Bastien & Lucas (done: 2026-03-11)
-- [ ] Set up affiliate report dashboard link for Josh
+- [x] Set up affiliate report dashboard link for Josh (Bastien sent 2026-04-01)
 - [ ] Send brand/media kit (logos, graphics for thumbnails)
 
 ## Notes
